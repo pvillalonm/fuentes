@@ -1,9 +1,3 @@
-function init(){
-}
-
-$(document).ready(function() {
-
-});
 
 $(document).on("click", "#btnsoporte", function () {
     if ($('#rol_id').val()==1){
